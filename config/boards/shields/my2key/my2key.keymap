@@ -7,7 +7,7 @@
 
         default_layer {
             bindings = < 
-                &kp F13   &kp F14
+                &kp C   &kp D
             >;
         };
     };
