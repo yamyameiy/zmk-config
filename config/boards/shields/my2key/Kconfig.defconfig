@@ -1,0 +1,6 @@
+if SHIELD_MY2KEY
+
+config ZMK_KEYBOARD_NAME
+    default "My2Key"
+
+endif # SHIELD_MY2KEY
